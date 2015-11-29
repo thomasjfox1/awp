@@ -39,6 +39,10 @@
   color:#fff;
   height:20px;
 }
+.city-wrap p{
+  margin: 0;
+  padding: 0;
+}
 .slick-slider
 {
     position: relative;
@@ -374,5 +378,5 @@
   z-index: 9999;
 }
 .carousel-container{
-  
+
 }
